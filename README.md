@@ -7,6 +7,9 @@
 
 ## Instalar:
 `pip install fastapi uvicorn`
+
+`pip install email-validator`
+
 ## Ejecutar:
 `uvicorn main:app --reload`
 
